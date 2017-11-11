@@ -5,4 +5,6 @@ Un filósofo comerá si tiene los dos cubiertos de sus lados libres. Si no está
 <br><br>
 NOTA:
 Para compilar seria: <br>
-gcc filosofos.c -pthread
+gcc filosofos.c -pthread <br>
+Y para ejecutar:<br>
+./a.out
